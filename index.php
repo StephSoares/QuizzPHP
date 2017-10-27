@@ -71,8 +71,5 @@
         echo closeTag("form");
         echo closeTag("section");
       ?>
-      <style>
-
-      </style>
   </body>
 </html>
